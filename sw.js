@@ -26,6 +26,8 @@ var precacheUrls = [];
 
   precacheUrls.push('/2019/05/26/json/');
 
+  precacheUrls.push('/2019/05/26/app/');
+
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
 
