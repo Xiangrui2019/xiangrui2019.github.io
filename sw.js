@@ -24,15 +24,7 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
-  precacheUrls.push('/2019/05/25/app/');
-
-  precacheUrls.push('/2019/05/25/appx/');
-
-  precacheUrls.push('/2019/05/25/hello-world/');
-
-  precacheUrls.push('/2019/05/25/l/');
-
-  precacheUrls.push('/2019/05/25/tgg/');
+  precacheUrls.push('/2019/05/26/json/');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};

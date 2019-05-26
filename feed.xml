@@ -8,161 +8,27 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sun, 26 May 2019 07:12:49 GMT</pubDate>
+    <pubDate>Sun, 26 May 2019 07:21:38 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title></title>
-      <link>https://catnews.azureedge.net/2019/05/26/j/</link>
-      <guid>https://catnews.azureedge.net/2019/05/26/j/</guid>
-      <pubDate>Sun, 26 May 2019 07:12:46 GMT</pubDate>
+      <link>https://catnews.azureedge.net/2019/05/26/json/</link>
+      <guid>https://catnews.azureedge.net/2019/05/26/json/</guid>
+      <pubDate>Sun, 26 May 2019 07:21:26 GMT</pubDate>
       <description>
       
         
         
-          &lt;p&gt;sdfffsd&lt;/p&gt;
+          &lt;p&gt;你是一只大老鼠&lt;/p&gt;
 
         
       
       </description>
       
-      <content:encoded><![CDATA[<p>sdfffsd</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>你是一只大老鼠</p>]]></content:encoded>
       
-      <comments>https://catnews.azureedge.net/2019/05/26/j/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://catnews.azureedge.net/2019/05/26/%E8%81%8A%E7%82%B8%E4%BA%86/</link>
-      <guid>https://catnews.azureedge.net/2019/05/26/%E8%81%8A%E7%82%B8%E4%BA%86/</guid>
-      <pubDate>Sun, 26 May 2019 07:06:19 GMT</pubDate>
-      <description>
-      
-      </description>
-      
-      <comments>https://catnews.azureedge.net/2019/05/26/%E8%81%8A%E7%82%B8%E4%BA%86/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>测试出错</title>
-      <link>https://catnews.azureedge.net/2019/05/25/appx/</link>
-      <guid>https://catnews.azureedge.net/2019/05/25/appx/</guid>
-      <pubDate>Sun, 26 May 2019 06:59:10 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;里奥死了, 奥利死了&lt;/p&gt;
-
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>里奥死了, 奥利死了</p>]]></content:encoded>
-      
-      <comments>https://catnews.azureedge.net/2019/05/25/appx/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>聊 奥利 爆炸</title>
-      <link>https://catnews.azureedge.net/2019/05/25/app/</link>
-      <guid>https://catnews.azureedge.net/2019/05/25/app/</guid>
-      <pubDate>Sun, 26 May 2019 06:58:53 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;里奥死了, 奥利死了&lt;/p&gt;
-
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>里奥死了, 奥利死了</p>]]></content:encoded>
-      
-      <comments>https://catnews.azureedge.net/2019/05/25/app/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>聊 大柏树</title>
-      <link>https://catnews.azureedge.net/2019/05/25/p/</link>
-      <guid>https://catnews.azureedge.net/2019/05/25/p/</guid>
-      <pubDate>Sun, 26 May 2019 06:58:40 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;里奥死了, 奥利死了&lt;/p&gt;
-
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>里奥死了, 奥利死了</p>]]></content:encoded>
-      
-      <comments>https://catnews.azureedge.net/2019/05/25/p/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>聊 Worldx</title>
-      <link>https://catnews.azureedge.net/2019/05/25/l/</link>
-      <guid>https://catnews.azureedge.net/2019/05/25/l/</guid>
-      <pubDate>Sun, 26 May 2019 06:58:24 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;里奥死了, 奥利死了&lt;/p&gt;
-
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>里奥死了, 奥利死了</p>]]></content:encoded>
-      
-      <comments>https://catnews.azureedge.net/2019/05/25/l/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>聊 World</title>
-      <link>https://catnews.azureedge.net/2019/05/25/tgg/</link>
-      <guid>https://catnews.azureedge.net/2019/05/25/tgg/</guid>
-      <pubDate>Sun, 26 May 2019 06:54:06 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;里奥死了&lt;/p&gt;
-
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>里奥死了</p>]]></content:encoded>
-      
-      <comments>https://catnews.azureedge.net/2019/05/25/tgg/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://catnews.azureedge.net/2019/05/25/hello-world/</link>
-      <guid>https://catnews.azureedge.net/2019/05/25/hello-world/</guid>
-      <pubDate>Sat, 25 May 2019 09:07:27 GMT</pubDate>
-      <description>
-      
-        
-        
-          &lt;p&gt;猫咪生病应该补充赖氨酸.&lt;/p&gt;
-&lt;p&gt;老鼠&lt;/p&gt;
-&lt;p&gt;不好&lt;/p&gt;
-
-        
-      
-      </description>
-      
-      <content:encoded><![CDATA[<p>猫咪生病应该补充赖氨酸.</p><p>老鼠</p><p>不好</p>]]></content:encoded>
-      
-      <comments>https://catnews.azureedge.net/2019/05/25/hello-world/#disqus_thread</comments>
+      <comments>https://catnews.azureedge.net/2019/05/26/json/#disqus_thread</comments>
     </item>
     
   </channel>
