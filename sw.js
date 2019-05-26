@@ -30,6 +30,8 @@ var precacheUrls = [];
 
   precacheUrls.push('/2019/05/26/dx/');
 
+  precacheUrls.push('/2019/05/26/pgsql/');
+
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
 
