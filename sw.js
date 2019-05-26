@@ -24,15 +24,15 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
-  precacheUrls.push('/2019/05/26/json/');
+  precacheUrls.push('/2019/05/26/开放投稿了/');
 
-  precacheUrls.push('/2019/05/26/app/');
+  precacheUrls.push('/2019/05/26/猫咪感冒怎么办/');
 
-  precacheUrls.push('/2019/05/26/dx/');
+  precacheUrls.push('/2019/05/26/猫咪打针-臭袜子套头-蒂姆嘟嘟/');
 
-  precacheUrls.push('/2019/05/26/pgsql/');
+  precacheUrls.push('/2019/05/26/猫咪打针-食物方法-花花与三猫/');
 
-  precacheUrls.push('/2019/05/26/j/');
+  precacheUrls.push('/2019/05/26/给猫咪做牛肉干/');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};
